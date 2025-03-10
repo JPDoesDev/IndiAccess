@@ -1,15 +1,4 @@
- /$$$$$$                 /$$ /$$  /$$$$$$                                                  
-|_  $$_/                | $$|__/ /$$__  $$                                                 
-  | $$   /$$$$$$$   /$$$$$$$ /$$| $$  \ $$  /$$$$$$$  /$$$$$$$  /$$$$$$   /$$$$$$$ /$$$$$$$
-  | $$  | $$__  $$ /$$__  $$| $$| $$$$$$$$ /$$_____/ /$$_____/ /$$__  $$ /$$_____//$$_____/
-  | $$  | $$  \ $$| $$  | $$| $$| $$__  $$| $$      | $$      | $$$$$$$$|  $$$$$$|  $$$$$$ 
-  | $$  | $$  | $$| $$  | $$| $$| $$  | $$| $$      | $$      | $$_____/ \____  $$\____  $$
- /$$$$$$| $$  | $$|  $$$$$$$| $$| $$  | $$|  $$$$$$$|  $$$$$$$|  $$$$$$$ /$$$$$$$//$$$$$$$/
-|______/|__/  |__/ \_______/|__/|__/  |__/ \_______/ \_______/ \_______/|_______/|_______/ 
-
-
 # IndiAccess - A Computer Vision Model for Text-to-Speech Functionality for Visually Impaired Accessibility
-=======================================================================================================================================  
 
 ## Overview:
 **IndiAccess** is a computer vision model that uses a YOLOv8 model trained on images captured from the video game "Indiana Jones and the Great Circle". The game currently lacks built-in screen reader functionality and does not work well with Windows' built-in screen magnifier software, making it difficult for visually impaired players to enjoy the game.
